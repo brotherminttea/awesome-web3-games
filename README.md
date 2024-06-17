@@ -42,6 +42,7 @@ Before adding a game, please read [the contributing guide](https://github.com/mo
   - [Shrapnel](https://www.shrapnel.com/) - 1st moddable AAA extraction shooter set in a not-so-distant future. The game is on Avalanche. `PC` `in development` `early access` 
 
 ## Farming Sim
+- [CropBytes Farms](https://www.cropbytes.com/) - Cultivate crops, raise livestock, trade assets, and grow a real farming business. Also has daily minigames tournaments. Assets are SFTs on Polygon. `browser/mobile game` `playable`
 - [Crypto Unicorns](https://www.cryptounicorns.fun/) - breed Unicorns, farm lands, also has PvP elements and minigames, like Jousting. Runs on Polygon. `PC/browser game` `playable`
 - [Moonfrost](https://moonfrost.io/) - for fans of Harvest Moon and Stardew valley. A free-to-play life sim farming RPG on Solana. `PC/mobile game` `in development`
 
